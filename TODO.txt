@@ -1,0 +1,17 @@
+2000-2020, national level, STIs over time
+- Gonorrhea
+- Chlamydia
+- HIV
+
+2016-2020, national level, STIs over time
+- Gonorrhea
+- Chlamydia
+- HIV
+
+2019-2020, national level, Gonorrhea over time by race
+2019-2020, national level, Chlamydia over time by race
+2019-2020, national level, HIV over time by race
+
+
+
+Add data suppressed (101, or something like that) and data unavailable (-1) codes for STI data
