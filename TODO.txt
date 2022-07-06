@@ -12,6 +12,10 @@
 2019-2020, national level, Chlamydia over time by race
 2019-2020, national level, HIV over time by race
 
+Rename all fips variables: fips
 
+Add data suppressed and data unavailable codes for STI data. Make these codes not a number!
 
-Add data suppressed (101, or something like that) and data unavailable (-1) codes for STI data
+Adjust for population
+
+Start looking at visibility of symptoms/prevalence at different stages
