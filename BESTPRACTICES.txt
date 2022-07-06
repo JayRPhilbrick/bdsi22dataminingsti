@@ -1,5 +1,7 @@
-All variable names should be lowercase
+All variable names should be lowercase (population)
 
-All variable names should contain no spaces or commas, and in the place of spaces or commas should be underscores (_)
+All variable names should contain no spaces or commas, and in the place of spaces or commas should be underscores (poverty_rate)
 
 FIPS codes should be in full five-digit form, and should be in a variable called fips
+
+All folder names should be capitalized (LikeSo)
