@@ -31,3 +31,8 @@ Map of gonorrhea unknown, county level
 What is meant by the different severities of syphilis? Does more severe mean more obvious? 
 
 Look at individual counties: individual plots within counties. I.e. 50 random counties, most rural, most urban, most white, most black, most hispanic, poorest, and richest.
+
+
+Kernel density (PDF) plot for rate of increase of rate of gonorrhea (and a separate one for rate of chlamydia) 2019-2020 at the county level
+
+Map for rate of increase of rate of gonorrhea (and a separate one for rate of chlamydia) 2019-2020 at the county level
