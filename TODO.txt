@@ -1,3 +1,5 @@
+TODO:
+
 2000-2020, national level, STIs over time
 - Gonorrhea
 - Chlamydia
@@ -11,8 +13,6 @@
 2019-2020, national level, Gonorrhea over time by race
 2019-2020, national level, Chlamydia over time by race
 2019-2020, national level, HIV over time by race
-
-Rename all fips variables: fips
 
 Add data suppressed and data unavailable codes for STI data. Make these codes not a number!
 
@@ -32,7 +32,11 @@ What is meant by the different severities of syphilis? Does more severe mean mor
 
 Look at individual counties: individual plots within counties. I.e. 50 random counties, most rural, most urban, most white, most black, most hispanic, poorest, and richest.
 
-
 Kernel density (PDF) plot for rate of increase of rate of gonorrhea (and a separate one for rate of chlamydia) 2019-2020 at the county level
 
 Map for rate of increase of rate of gonorrhea (and a separate one for rate of chlamydia) 2019-2020 at the county level
+
+
+DONE:
+
+Rename all fips variables: fips
