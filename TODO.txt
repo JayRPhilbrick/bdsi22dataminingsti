@@ -39,6 +39,10 @@ Add batch file that runs all the data build files
 
 Add batch file that runs all the analysis files
 
+Make sure all files are in "leaf" folders. As in, for most folders, if a folder contains subfolders, then files should also not be present
+
+In pre-merge code: ensure that ACS DP05 and DP03 contain all the same columns for all the same years. Essentially, look to see whether there are "sparse" columns which are non-empty for less than X% of rows
+
 
 TODO MODELING:
 
@@ -47,7 +51,6 @@ Use 2020 covariates to get a prediction for 2020, could look at that as a way to
 Analysis of missing cases -- regression here to see where "missing cases" are the highest
 5-fold cross validation
 Maybe autoregressive lasso model? Also check out this Bayesian one: An Autoregressive Disease Mapping Model for Spatio-Temporal Forecasting
-
 
 DONE:
 
