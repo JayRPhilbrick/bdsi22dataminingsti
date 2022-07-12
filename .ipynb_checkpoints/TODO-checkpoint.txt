@@ -1,0 +1,42 @@
+TODO:
+
+2000-2020, national level, STIs over time
+- Gonorrhea
+- Chlamydia
+- HIV
+
+2016-2020, national level, STIs over time
+- Gonorrhea
+- Chlamydia
+- HIV
+
+2019-2020, national level, Gonorrhea over time by race
+2019-2020, national level, Chlamydia over time by race
+2019-2020, national level, HIV over time by race
+
+Add data suppressed and data unavailable codes for STI data. Make these codes not a number!
+
+Why is _y being appended to variable names? Investigate (may be some sort of funky data merge) and fix!
+Adjust for population
+
+Start looking at visibility of symptoms/prevalence at different stages!!! Very important, given HIV diagnosis decrease. Share of asymptomatic cases for each of these diseases!
+
+Look at unknown race: what does that mean!
+
+What are the denominators of percents in the HIV data?
+
+Map of chlamydia unknown, county level
+Map of gonorrhea unknown, county level
+
+What is meant by the different severities of syphilis? Does more severe mean more obvious? 
+
+Look at individual counties: individual plots within counties. I.e. 50 random counties, most rural, most urban, most white, most black, most hispanic, poorest, and richest.
+
+Kernel density (PDF) plot for rate of increase of rate of gonorrhea (and a separate one for rate of chlamydia) 2019-2020 at the county level
+
+Map for rate of increase of rate of gonorrhea (and a separate one for rate of chlamydia) 2019-2020 at the county level
+
+
+DONE:
+
+Rename all fips variables: fips

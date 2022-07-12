@@ -16,7 +16,6 @@ TODO:
 
 Add data suppressed and data unavailable codes for STI data. Make these codes not a number!
 
-Why is _y being appended to variable names? Investigate (may be some sort of funky data merge) and fix!
 Adjust for population
 
 Start looking at visibility of symptoms/prevalence at different stages!!! Very important, given HIV diagnosis decrease. Share of asymptomatic cases for each of these diseases!
@@ -40,3 +39,5 @@ Map for rate of increase of rate of gonorrhea (and a separate one for rate of ch
 DONE:
 
 Rename all fips variables: fips
+
+Got rid of duplicate columns
