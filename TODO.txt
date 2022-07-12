@@ -1,4 +1,4 @@
-TODO:
+TODO DATA MANAGEMENT + EDA:
 
 2000-2020, national level, STIs over time
 - Gonorrhea
@@ -34,6 +34,15 @@ Look at individual counties: individual plots within counties. I.e. 50 random co
 Kernel density (PDF) plot for rate of increase of rate of gonorrhea (and a separate one for rate of chlamydia) 2019-2020 at the county level
 
 Map for rate of increase of rate of gonorrhea (and a separate one for rate of chlamydia) 2019-2020 at the county level
+
+
+TODO MODELING:
+
+Fit something up until 2020: maybe autoregressive model?
+Use 2020 covariates to get a prediction for 2020, could look at that as a way to quantify the "missing cases"
+Analysis of missing cases -- regression here to see where "missing cases" are the highest
+5-fold cross validation
+Maybe autoregressive lasso model? Also check out this Bayesian one: An Autoregressive Disease Mapping Model for Spatio-Temporal Forecasting
 
 
 DONE:
