@@ -35,6 +35,10 @@ Kernel density (PDF) plot for rate of increase of rate of gonorrhea (and a separ
 
 Map for rate of increase of rate of gonorrhea (and a separate one for rate of chlamydia) 2019-2020 at the county level
 
+Add batch file that runs all the data build files
+
+Add batch file that runs all the analysis files
+
 
 TODO MODELING:
 
@@ -50,3 +54,5 @@ DONE:
 Rename all fips variables: fips
 
 Got rid of duplicate columns
+
+created adjusted income column
