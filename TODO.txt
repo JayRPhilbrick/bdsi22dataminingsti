@@ -54,3 +54,5 @@ DONE:
 Rename all fips variables: fips
 
 Got rid of duplicate columns
+
+created adjusted income column
