@@ -43,7 +43,7 @@ Make sure all files are in "leaf" folders. As in, for most folders, if a folder 
 
 In pre-merge code: ensure that ACS DP05 and DP03 contain all the same columns for all the same years. Essentially, look to see whether there are "sparse" columns which are non-empty for less than 99% of rows. Make a list of what each of DP03 and DP05 should contain: make sure that these are not in the list of sparse columns. 
 
-Clean ACS 2010-2012 DP03, 2010-2011 DP05
+Clean ACS 2010-2012 DP03, 2010-2012 DP05
 
 
 TODO MODELING:
