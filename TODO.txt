@@ -41,6 +41,16 @@ In pre-merge code: ensure that ACS DP05 and DP03 contain all the same columns fo
 
 Clean ACS 2010-2012 DP03, 2010-2012 DP05
 
+Scatterplot of 2019 rate, 2020 rate, line of best fit -- also that, but with bubble size for population
+
+The variance within county is inversely proportional to population county -- take that into account with the test of difference
+
+Leap from 2000-2002 -- look into this. Reporting changes? Don't trust anything before 2002 or so.
+
+Forecast at the state level -- levels at the county level will be noisy, especially in counties. At the state level, this should be more stable. 
+
+Definitely make the time series normalized by population, so that it's case rates 
+
 
 TODO MODELING:
 
