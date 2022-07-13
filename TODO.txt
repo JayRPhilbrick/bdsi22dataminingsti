@@ -14,8 +14,6 @@ TODO DATA MANAGEMENT + EDA:
 2019-2020, national level, Chlamydia over time by race
 2019-2020, national level, HIV over time by race
 
-Add data suppressed and data unavailable codes for STI data. Make these codes not a number!
-
 Adjust for population
 
 Start looking at visibility of symptoms/prevalence at different stages!!! Very important, given HIV diagnosis decrease. Share of asymptomatic cases for each of these diseases!
@@ -30,8 +28,6 @@ Map of gonorrhea unknown, county level
 What is meant by the different severities of syphilis? Does more severe mean more obvious? 
 
 Look at individual counties: individual plots within counties. I.e. 50 random counties, most rural, most urban, most white, most black, most hispanic, poorest, and richest.
-
-Kernel density (PDF) plot for rate of increase of rate of gonorrhea (and a separate one for rate of chlamydia) 2019-2020 at the county level
 
 Map for rate of increase of rate of gonorrhea (and a separate one for rate of chlamydia) 2019-2020 at the county level
 
@@ -61,3 +57,7 @@ Rename all fips variables: fips
 Got rid of duplicate columns
 
 created adjusted income column
+
+Kernel density (PDF) plot for rate of increase of rate of gonorrhea (and a separate one for rate of chlamydia) 2019-2020 at the county level
+
+Add data suppressed and data unavailable codes for STI data. Make these codes not a number!
