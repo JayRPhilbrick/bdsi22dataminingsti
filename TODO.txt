@@ -49,7 +49,7 @@ Leap from 2000-2002 -- look into this. Reporting changes? Don't trust anything b
 
 Forecast at the state level -- levels at the county level will be noisy, especially in counties. At the state level, this should be more stable. 
 
-Definitely make the time series normalized by population
+Definitely make the time series normalized by population, so that it's case rates 
 
 
 TODO MODELING:
