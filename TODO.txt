@@ -39,8 +39,6 @@ Make sure all files are in "leaf" folders. As in, for most folders, if a folder 
 
 In pre-merge code: ensure that ACS DP05 and DP03 contain all the same columns for all the same years. Essentially, look to see whether there are "sparse" columns which are non-empty for less than 99% of rows. Make a list of what each of DP03 and DP05 should contain: make sure that these are not in the list of sparse columns. 
 
-Clean ACS 2010-2012 DP03
-
 Scatterplot of 2019 rate, 2020 rate, line of best fit -- also that, but with bubble size for population
 
 The variance within county is inversely proportional to population county -- take that into account with the test of difference
@@ -71,3 +69,5 @@ created adjusted income column
 Kernel density (PDF) plot for rate of increase of rate of gonorrhea (and a separate one for rate of chlamydia) 2019-2020 at the county level
 
 Add data suppressed and data unavailable codes for STI data. Make these codes not a number!
+
+Clean ACS Data
