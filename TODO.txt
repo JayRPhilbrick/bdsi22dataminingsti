@@ -46,6 +46,16 @@ Forecast at the state level -- levels at the county level will be noisy, especia
 
 Definitely make the time series normalized by population, so that it's case rates 
 
+Color scatterplot bubbles by income or by political affiliation -- also, subset the bubbles that lie on one side of the plot, the other side of the plot as well. Plot those by different colors on a national map
+
+Do we want to get the STI clinic data from the other group?
+
+What's considered an acceptable AIC level?
+
+For places that actually have a lot of disease: might, instead of looking at the difference in rate predicted by model vs actual, look at the percentage difference in rates between predicted by model vs actual
+
+Johann starts with univariate models, looking at residuals: seeing what we learn from that. We can just screen them using correlations. 
+
 
 TODO MODELING:
 
