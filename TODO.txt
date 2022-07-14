@@ -1,20 +1,5 @@
 TODO DATA MANAGEMENT + EDA:
 
-2000-2020, national level, STIs over time
-- Gonorrhea
-- Chlamydia
-- HIV
-
-2016-2020, national level, STIs over time
-- Gonorrhea
-- Chlamydia
-- HIV
-
-2019-2020, national level, Gonorrhea over time by race
-2019-2020, national level, Chlamydia over time by race
-2019-2020, national level, HIV over time by race
-
-Adjust for population
 
 Start looking at visibility of symptoms/prevalence at different stages!!! Very important, given HIV diagnosis decrease. Share of asymptomatic cases for each of these diseases!
 
@@ -44,7 +29,7 @@ Clean ACS 2010-2012 DP03, 2010-2012 DP05
 
 TODO MODELING:
 
-Fit something up until 2020: maybe autoregressive model?
+Try implementing the random forest on the data
 Use 2020 covariates to get a prediction for 2020, could look at that as a way to quantify the "missing cases"
 Analysis of missing cases -- regression here to see where "missing cases" are the highest
 5-fold cross validation
@@ -61,3 +46,21 @@ created adjusted income column
 Kernel density (PDF) plot for rate of increase of rate of gonorrhea (and a separate one for rate of chlamydia) 2019-2020 at the county level
 
 Add data suppressed and data unavailable codes for STI data. Make these codes not a number!
+
+2000-2020, national level, STIs over time
+- Gonorrhea
+- Chlamydia
+- HIV
+
+2016-2020, national level, STIs over time
+- Gonorrhea
+- Chlamydia
+- HIV
+
+2019-2020, national level, Gonorrhea over time by race
+2019-2020, national level, Chlamydia over time by race
+2019-2020, national level, HIV over time by race
+
+Adjust for population
+
+Fit something up until 2020: maybe autoregressive model? (Done it is found to have been using the MA model after detrending the data)
