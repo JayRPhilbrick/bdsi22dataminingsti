@@ -22,10 +22,7 @@ Look at unknown race: what does that mean!
 
 What are the denominators of percents in the HIV data?
 
-Map of chlamydia unknown, county level
-Map of gonorrhea unknown, county level
-
-What is meant by the different severities of syphilis? Does more severe mean more obvious? 
+What is meant by the different severities of syphilis? Does more severe mean more robvious? 
 
 Look at individual counties: individual plots within counties. I.e. 50 random counties, most rural, most urban, most white, most black, most hispanic, poorest, and richest.
 
@@ -71,3 +68,6 @@ Kernel density (PDF) plot for rate of increase of rate of gonorrhea (and a separ
 Add data suppressed and data unavailable codes for STI data. Make these codes not a number!
 
 Clean ACS Data
+
+Map of chlamydia unknown, county level
+Map of gonorrhea unknown, county level
