@@ -24,7 +24,6 @@ Make sure all files are in "leaf" folders. As in, for most folders, if a folder 
 
 In pre-merge code: ensure that ACS DP05 and DP03 contain all the same columns for all the same years. Essentially, look to see whether there are "sparse" columns which are non-empty for less than 99% of rows. Make a list of what each of DP03 and DP05 should contain: make sure that these are not in the list of sparse columns. 
 
-Scatterplot of 2019 rate, 2020 rate, line of best fit -- also that, but with bubble size for population
 
 The variance within county is inversely proportional to population county -- take that into account with the test of difference
 
@@ -76,3 +75,4 @@ Fit something up until 2020: maybe autoregressive model? (Done it is found to ha
 
 Clean ACS Data
 
+Scatterplot of 2019 rate, 2020 rate, line of best fit -- also that, but with bubble size for population
