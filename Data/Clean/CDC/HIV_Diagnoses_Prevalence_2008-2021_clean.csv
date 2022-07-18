@@ -1,4 +1,5 @@
-year,geography,fips,cases_HIV diagnoses,cases_HIV prevalence,ratePer100000_HIV diagnoses,ratePer100000_HIV prevalence
+year,geography,fips,cases,cases,ratePer100000,ratePer100000
+,,,HIV diagnoses,HIV prevalence,HIV diagnoses,HIV prevalence
 2008,"Abbeville County, SC",45001,,44.0,,207.4
 2008,"Acadia Parish, LA",22001,5.0,74.0,10.4,154.1
 2008,"Accomack County, VA",51001,,103.0,,318.1
