@@ -65,6 +65,13 @@ Analysis of missing cases -- regression here to see where "missing cases" are th
 5-fold cross validation
 Maybe autoregressive lasso model? Also check out this Bayesian one: An Autoregressive Disease Mapping Model for Spatio-Temporal Forecasting
 
+
+TODO STORYTELLING:
+
+TELL SOME VERSION OF THE SEVERITY/SYMPTOMATIC STORY, REGARDLESS OF THE MODELING IMPLICATIONS. CAN EVEN DO THIS BASED ON EDA. Sort of parallel-trends type thing. 
+
+Show double case counts sort of thing. "Levelling off or even decrease in cases"
+
 DONE:
 
 Rename all fips variables: fips
@@ -81,3 +88,4 @@ Clean ACS Data
 
 Map of chlamydia unknown, county level
 Map of gonorrhea unknown, county level
+
